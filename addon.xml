@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+﻿<?xml version="1.0" ?>
 <sdk:sdk-addon xmlns:sdk="http://schemas.android.com/sdk/android/addon/7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<!--Generated on 2018-06-29 16:06:20.169711 with ADRT.-->
 	<sdk:license id="android-sdk-license" type="text">Terms and Conditions
@@ -468,7 +468,7 @@ This is the Glass Development Kit License Agreement.
 3.8 You agree that you will not remove, obscure, or alter any proprietary rights notices (including copyright and trademark notices) that may be affixed to or contained within the GDK.
 
 
-3.9 Your use of any Android system files, packaged APIs, or other components of the GDK which are part of the Android Software Development Kit is subject to the terms of the Android Software Development Kit License Agreement located at http://developer.android.com/sdk/terms.html. These terms are hereby incorporated by reference into this License Agreement.
+3.9 Your use of any Android system files, packaged APIs, or other components of the GDK which are part of the Android Software Development Kit is subject to the terms of the Android Software Development Kit License Agreement located at http://mirrors.neusoft.edu.cn/sdk/terms.html. These terms are hereby incorporated by reference into this License Agreement.
 
 4. Use of the GDK by You
 
@@ -600,7 +600,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS &quot;AS IS&
 		<sdk:name-display>Google APIs</sdk:name-display>
 		<sdk:api-level>3</sdk:api-level>
 		<sdk:description>Android + Google APIs</sdk:description>
-		<sdk:desc-url>http://developer.android.com/</sdk:desc-url>
+		<sdk:desc-url>http://mirrors.neusoft.edu.cn/</sdk:desc-url>
 		<sdk:libs>
 			<sdk:lib>
 				<sdk:name>com.google.android.maps</sdk:name>
@@ -627,7 +627,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS &quot;AS IS&
 		<sdk:name-display>Google APIs</sdk:name-display>
 		<sdk:api-level>4</sdk:api-level>
 		<sdk:description>Android + Google APIs</sdk:description>
-		<sdk:desc-url>http://developer.android.com/</sdk:desc-url>
+		<sdk:desc-url>http://mirrors.neusoft.edu.cn/</sdk:desc-url>
 		<sdk:libs>
 			<sdk:lib>
 				<sdk:name>com.google.android.maps</sdk:name>
@@ -654,7 +654,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS &quot;AS IS&
 		<sdk:name-display>Google APIs</sdk:name-display>
 		<sdk:api-level>5</sdk:api-level>
 		<sdk:description>Android + Google APIs</sdk:description>
-		<sdk:desc-url>http://developer.android.com/</sdk:desc-url>
+		<sdk:desc-url>http://mirrors.neusoft.edu.cn/</sdk:desc-url>
 		<sdk:libs>
 			<sdk:lib>
 				<sdk:name>com.google.android.maps</sdk:name>
@@ -681,7 +681,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS &quot;AS IS&
 		<sdk:name-display>Google APIs</sdk:name-display>
 		<sdk:api-level>6</sdk:api-level>
 		<sdk:description>Android + Google APIs</sdk:description>
-		<sdk:desc-url>http://developer.android.com/</sdk:desc-url>
+		<sdk:desc-url>http://mirrors.neusoft.edu.cn/</sdk:desc-url>
 		<sdk:libs>
 			<sdk:lib>
 				<sdk:name>com.google.android.maps</sdk:name>
@@ -708,7 +708,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS &quot;AS IS&
 		<sdk:name-display>Google APIs</sdk:name-display>
 		<sdk:api-level>7</sdk:api-level>
 		<sdk:description>Android + Google APIs</sdk:description>
-		<sdk:desc-url>http://developer.android.com/</sdk:desc-url>
+		<sdk:desc-url>http://mirrors.neusoft.edu.cn/</sdk:desc-url>
 		<sdk:libs>
 			<sdk:lib>
 				<sdk:name>com.google.android.maps</sdk:name>
@@ -735,7 +735,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS &quot;AS IS&
 		<sdk:name-display>Google APIs</sdk:name-display>
 		<sdk:api-level>8</sdk:api-level>
 		<sdk:description>Android + Google APIs</sdk:description>
-		<sdk:desc-url>http://developer.android.com/</sdk:desc-url>
+		<sdk:desc-url>http://mirrors.neusoft.edu.cn/</sdk:desc-url>
 		<sdk:libs>
 			<sdk:lib>
 				<sdk:name>com.google.android.maps</sdk:name>
@@ -762,7 +762,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS &quot;AS IS&
 		<sdk:name-display>Google APIs</sdk:name-display>
 		<sdk:api-level>9</sdk:api-level>
 		<sdk:description>Android + Google APIs</sdk:description>
-		<sdk:desc-url>http://developer.android.com/</sdk:desc-url>
+		<sdk:desc-url>http://mirrors.neusoft.edu.cn/</sdk:desc-url>
 		<sdk:libs>
 			<sdk:lib>
 				<sdk:name>com.google.android.maps</sdk:name>
@@ -789,7 +789,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS &quot;AS IS&
 		<sdk:name-display>Google APIs</sdk:name-display>
 		<sdk:api-level>10</sdk:api-level>
 		<sdk:description>Android + Google APIs</sdk:description>
-		<sdk:desc-url>http://developer.android.com/</sdk:desc-url>
+		<sdk:desc-url>http://mirrors.neusoft.edu.cn/</sdk:desc-url>
 		<sdk:libs>
 			<sdk:lib>
 				<sdk:name>com.google.android.maps</sdk:name>
@@ -820,7 +820,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS &quot;AS IS&
 		<sdk:name-display>Google APIs</sdk:name-display>
 		<sdk:api-level>11</sdk:api-level>
 		<sdk:description>Android + Google APIs</sdk:description>
-		<sdk:desc-url>http://developer.android.com/</sdk:desc-url>
+		<sdk:desc-url>http://mirrors.neusoft.edu.cn/</sdk:desc-url>
 		<sdk:libs>
 			<sdk:lib>
 				<sdk:name>com.google.android.maps</sdk:name>
@@ -847,7 +847,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS &quot;AS IS&
 		<sdk:name-display>Google APIs</sdk:name-display>
 		<sdk:api-level>12</sdk:api-level>
 		<sdk:description>Android + Google APIs</sdk:description>
-		<sdk:desc-url>http://developer.android.com/</sdk:desc-url>
+		<sdk:desc-url>http://mirrors.neusoft.edu.cn/</sdk:desc-url>
 		<sdk:libs>
 			<sdk:lib>
 				<sdk:name>com.google.android.maps</sdk:name>
@@ -878,7 +878,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS &quot;AS IS&
 		<sdk:name-display>Google APIs</sdk:name-display>
 		<sdk:api-level>13</sdk:api-level>
 		<sdk:description>Android + Google APIs</sdk:description>
-		<sdk:desc-url>http://developer.android.com/</sdk:desc-url>
+		<sdk:desc-url>http://mirrors.neusoft.edu.cn/</sdk:desc-url>
 		<sdk:libs>
 			<sdk:lib>
 				<sdk:name>com.google.android.maps</sdk:name>
@@ -1269,7 +1269,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS &quot;AS IS&
 		<sdk:name-display>Google TV Addon</sdk:name-display>
 		<sdk:api-level>12</sdk:api-level>
 		<sdk:description></sdk:description>
-		<sdk:desc-url>http://developer.android.com/</sdk:desc-url>
+		<sdk:desc-url>http://mirrors.neusoft.edu.cn/</sdk:desc-url>
 		<sdk:libs/>
 	</sdk:add-on>
 	<sdk:add-on>
@@ -1291,7 +1291,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS &quot;AS IS&
 		<sdk:name-display>Google TV Addon</sdk:name-display>
 		<sdk:api-level>13</sdk:api-level>
 		<sdk:description></sdk:description>
-		<sdk:desc-url>http://developer.android.com/</sdk:desc-url>
+		<sdk:desc-url>http://mirrors.neusoft.edu.cn/</sdk:desc-url>
 		<sdk:libs/>
 	</sdk:add-on>
 	<sdk:extra>
@@ -1353,7 +1353,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS &quot;AS IS&
 		<sdk:vendor-id>google</sdk:vendor-id>
 		<sdk:vendor-display></sdk:vendor-display>
 		<sdk:description>Android Market Licensing client library</sdk:description>
-		<sdk:desc-url>http://developer.android.com/guide/publishing/licensing.html</sdk:desc-url>
+		<sdk:desc-url>http://mirrors.neusoft.edu.cn/guide/publishing/licensing.html</sdk:desc-url>
 		<sdk:name-display>Google Play Licensing Library</sdk:name-display>
 		<sdk:path>market_licensing</sdk:path>
 	</sdk:extra>
@@ -1374,7 +1374,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS &quot;AS IS&
 		<sdk:vendor-id>google</sdk:vendor-id>
 		<sdk:vendor-display>Google Inc.</sdk:vendor-display>
 		<sdk:description>Android Market APK Expansion library</sdk:description>
-		<sdk:desc-url>http://developer.android.com/guide/market/expansion-files.html</sdk:desc-url>
+		<sdk:desc-url>http://mirrors.neusoft.edu.cn/guide/market/expansion-files.html</sdk:desc-url>
 		<sdk:name-display>Google Play APK Expansion library</sdk:name-display>
 		<sdk:path>market_apk_expansion</sdk:path>
 	</sdk:extra>
@@ -1439,7 +1439,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS &quot;AS IS&
 		<sdk:vendor-id>google</sdk:vendor-id>
 		<sdk:vendor-display>Google Inc.</sdk:vendor-display>
 		<sdk:description>USB Driver for Windows, revision 11</sdk:description>
-		<sdk:desc-url>http://developer.android.com/</sdk:desc-url>
+		<sdk:desc-url>http://mirrors.neusoft.edu.cn/</sdk:desc-url>
 		<sdk:name-display>Google USB Driver</sdk:name-display>
 		<sdk:path>usb_driver</sdk:path>
 	</sdk:extra>
@@ -1547,7 +1547,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS &quot;AS IS&
 		<sdk:vendor-id>google</sdk:vendor-id>
 		<sdk:vendor-display>Google Inc.</sdk:vendor-display>
 		<sdk:description>Android Auto API testing simulators</sdk:description>
-		<sdk:desc-url>http://developer.android.com/auto</sdk:desc-url>
+		<sdk:desc-url>http://mirrors.neusoft.edu.cn/auto</sdk:desc-url>
 		<sdk:name-display>Android Auto API Simulators</sdk:name-display>
 		<sdk:path>simulators</sdk:path>
 	</sdk:extra>
@@ -1584,7 +1584,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS &quot;AS IS&
 		<sdk:vendor-id>google</sdk:vendor-id>
 		<sdk:vendor-display>Google Inc.</sdk:vendor-display>
 		<sdk:description>Head unit emulator for developers targeting the Android Auto platform.</sdk:description>
-		<sdk:desc-url>http://developer.android.com/tools/help/desktop-head-unit.html</sdk:desc-url>
+		<sdk:desc-url>http://mirrors.neusoft.edu.cn/tools/help/desktop-head-unit.html</sdk:desc-url>
 		<sdk:name-display>Android Auto Desktop Head Unit emulator</sdk:name-display>
 		<sdk:path>auto</sdk:path>
 	</sdk:extra>
